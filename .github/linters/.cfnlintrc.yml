@@ -1,0 +1,7 @@
+include_checks:
+  - I
+ignore_checks:
+  - E1001
+  - E1010
+  - E1012
+  - E1019
